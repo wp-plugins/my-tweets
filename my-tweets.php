@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: My Tweets
-Plugin URI: http://www.couponcondo.com/plugins/twitter-plugin/
+Plugin URI: 
 Description: Displays your latest tweets as a widget.
-Version: 1.0.2
-Author: CouponCondo.com
-Author URI: http://www.couponcondo.com
+Version: 1.5
+Author: Podz
+Author URI: 
 */
 
-/*  Copyright 2011 CouponCondo - support@couponcondo.com
+/*  Copyright 2011 
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -442,7 +442,7 @@ $date = $date . ' - ';
   }
 
 if ($supportplugin=="Yes" || $supportplugin=="") {
-$twitterdisp .= '<p>Twitter Plugin made by <a href="http://www.open-office-download.net">Open Office</a></p>';
+$twitterdisp .= '';
 }
 
 $twitterdisp .= $after_widget;

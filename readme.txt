@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: CouponCondo
-Donate link: http://www.couponcondo.com
+Contributors: Podz
+Donate link: 
 Tags: twitter, widgets, widget, page, sidebar, plugin, images, links, posts
 Requires at least: 3.0.1
 Tested up to: 3.3.1
-Stable tag: 1.0.2
+Version: 1.5
 
 This Twitter plugin allows you to publish your latest twitter updates as a widget on your blog.
 
